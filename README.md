@@ -1,6 +1,6 @@
-# Sales-Analysis-for-Indian-Markets-with-Cities
-
 ## Sales Insights Analysis - Indian Market - VAIBHAV RAMAKRISHNAN
+
+I used a dataset with over 150,000 transactions to develop a live interactive dashboard using Tableau, which resulted in a potential growth of 8.5% in revenue for the next quarter. With the help of SQL, I identified the sales trends and growth in different major cities of India, identifying which products dominate the market, why the sales are dropping in certain cities, and what products can further be advertised to increase sales and fuel revenue growth.
 
 
 ### Data Analysis Using SQL
