@@ -1,4 +1,4 @@
-## Sales Insights and Performance Dashboard for a Hardware Peripherals Supplier:
+## Sales Insights and Performance Dashboard for NVIDIA:
 
 Analysed 150,000 sales transactions for a major electronics retailer, creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimized revenue tracking, product mix strategies, and regional performance insights. Projected to boost quarterly revenue by 8.5%, enhance market penetration, and streamline decision-making for 38 key customers
 
