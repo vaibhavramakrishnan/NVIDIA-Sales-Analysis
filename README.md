@@ -1,6 +1,6 @@
-## Sales Insights and Performance Dashboard for NVIDIA:
+## Sales Insights and Performance Dashboard for NVIDIA
 
-Analysed over 150,000 sales transactions for NVIDIA, which is facing issues in terms of its sales. My work as a Data Analyst is to unlock insights that are not visible before the sales team for decision support & automate them to reduce the manual time spent in data gathering. This is done by creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimizes revenue tracking, product mix strategies, and regional performance insights. 
+Analysed over 150,000 sales transactions for NVIDIA, which is facing issues in terms of its sales. My work as a Data Analyst is to unlock insights that are not visible before the sales team for decision support & automate them to reduce the manual time spent in data gathering. This is done by creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimizes revenue tracking, product mix strategies, and regional performance insights helping in data-driven decision making.
 
 <img width="1440" alt="Screenshot 2024-08-07 at 9 44 33 PM" src="https://github.com/user-attachments/assets/f0e4a499-998a-4691-9fb7-2bd416219cdd">
 
@@ -19,6 +19,12 @@ Analysed over 150,000 sales transactions for NVIDIA, which is facing issues in t
 3. **Customer Service Team**
 4. **Data & Analytics Team**
 5. **IT**
+
+### Success Criteria
+
+1. Dashboard uncovering sales order insights with the latest data available
+2. Sales team able to make better decisions & prove cost savings of total spend
+3. Sales Analysts stop data gathering manually in order to save business time and reinvest in value-added activity
 
 ### Summary of Insights
 
