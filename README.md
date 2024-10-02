@@ -1,6 +1,6 @@
 ## Sales Insights and Performance Dashboard for NVIDIA:
 
-Analysed 150,000 sales transactions for a major electronics retailer, creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimized revenue tracking, product mix strategies, and regional performance insights. Projected to boost quarterly revenue by 8.5%, enhance market penetration, and streamline decision-making for 38 key customers
+Analysed 150,000 sales transactions for NVIDIA, creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimized revenue tracking, product mix strategies, and regional performance insights. Projected to boost quarterly revenue by 8.5%, enhance market penetration, and streamline decision-making for 38 key customers
 
 <img width="1440" alt="Screenshot 2024-08-07 at 9 44 33 PM" src="https://github.com/user-attachments/assets/f0e4a499-998a-4691-9fb7-2bd416219cdd">
 
