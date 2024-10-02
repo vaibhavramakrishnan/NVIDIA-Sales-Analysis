@@ -14,7 +14,7 @@ Analysed over 150,000 sales transactions for NVIDIA, that is facing issues in te
 
 ### Summary of Insights
 
-1. Projected to boost quarterly revenue by 8.5 - through enhanced market penetration, and streamlining decision-making for 38 key customers
+1. Projected to boost quarterly revenue by 8.5% - through enhanced market penetration, and streamlining decision-making for 38 key customers
  
 ### Data Analysis Using SQL
 
