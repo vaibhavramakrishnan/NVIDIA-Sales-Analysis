@@ -4,6 +4,14 @@ Analysed 150,000 sales transactions for NVIDIA, creating an automated SQL and Ta
 
 <img width="1440" alt="Screenshot 2024-08-07 at 9 44 33 PM" src="https://github.com/user-attachments/assets/f0e4a499-998a-4691-9fb7-2bd416219cdd">
 
+### North Star Metrics and Dimensions
+
+1. **Total Revenue Numbers:** Overall revenue generated during the analysis period.
+2. **Sales Quantity Numbers:** Total units sold.
+3. **Year-over-Year (YOY) Growth:** Comparing sales performance with previous years.
+4. **Revenue Breakdown:** Analysis by regions, products, and customer segments.
+5. **Revenue Trends:** Insights into how revenue evolves over time.
+
 ### Data Analysis Using SQL
 
 1. Show all customer records
