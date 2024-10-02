@@ -26,9 +26,13 @@ Analysed over 150,000 sales transactions for NVIDIA, which is facing issues in t
 2. Sales team able to make better decisions & prove cost savings of total spend
 3. Sales Analysts stop data gathering manually in order to save business time and reinvest in value-added activity
 
-### Summary of Insights
+### Recommendations & Insights
 
-1. Projected to boost quarterly revenue by 8.5% - through enhanced market penetration, and streamlining decision-making for 38 key customers
+1. The overall sales are declining - $42 Million in January 2018 to close to $26 Million in January 2020
+2. Prod040 had the highest revenue close to $24 Million
+3. Electricalsara Stores is the biggest customer for NVIDIA
+4. Delhi NCR is the biggest city contributing to the business
+5. Projected to boost quarterly revenue by 8.5% - through enhanced market penetration, and streamlining decision-making for 38 key customers
  
 ### Data Analysis Using SQL
 
