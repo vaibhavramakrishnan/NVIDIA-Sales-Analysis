@@ -1,6 +1,6 @@
 ## Sales Insights and Performance Dashboard for NVIDIA:
 
-Analysed over 150,000 sales transactions for NVIDIA, that is facing issues in terms of their sales. My work as a Data Analyst is creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimizes revenue tracking, product mix strategies, and regional performance insights. 
+Analysed over 150,000 sales transactions for NVIDIA, which is facing issues in terms of its sales. My work as a Data Analyst is to unlock insights that are not visible before the sales team for decision support & automate them to reduce the manual time spent in data gathering. This is done by creating an automated SQL and Tableau dashboard [here](https://public.tableau.com/app/profile/vaibhav.ramakrishnan/viz/SalesAnalysis-IndianMarketsCustomers/Dashboard1) that optimizes revenue tracking, product mix strategies, and regional performance insights. 
 
 <img width="1440" alt="Screenshot 2024-08-07 at 9 44 33 PM" src="https://github.com/user-attachments/assets/f0e4a499-998a-4691-9fb7-2bd416219cdd">
 
@@ -11,6 +11,14 @@ Analysed over 150,000 sales transactions for NVIDIA, that is facing issues in te
 3. **Year-over-Year (YOY) Growth:** Comparing sales performance with previous years.
 4. **Revenue Breakdown:** Analysis by regions, products, and customer segments.
 5. **Revenue Trends:** Insights into how revenue evolves over time.
+
+### Stakeholders Involved
+
+1. **Sales Director**
+2. **Marketing Team**
+3. **Customer Service Team**
+4. **Data & Analytics Team**
+5. **IT**
 
 ### Summary of Insights
 
