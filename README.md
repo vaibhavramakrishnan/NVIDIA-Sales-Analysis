@@ -27,6 +27,7 @@ Analysed over 150,000 sales transactions for NVIDIA, which is facing issues in t
 3. Sales Analysts stop data gathering manually in order to save business time and reinvest in value-added activity
 
 ### Recommendations & Insights
+-A few products like Product065 and customers like Excel stores had high Revenue by year during early COVID stages in 2020,  so I would have recommended considering reallocating the budget to the higher performing category of Product065 contributing to an expected 8.5% boost in quarterly revenue. 
 
 1. The overall sales are declining - $42 Million in January 2018 to close to $26 Million in January 2020
 2. Prod040 had the highest revenue close to $24 Million
